@@ -1,0 +1,44 @@
+body {
+  margin-left: 40%;
+  margin-top: 50px;
+  width: fit-content;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form {
+  padding: 20px;
+  border: solid, lightgray, 2px;
+  background-color: lightgray;
+  border-radius: 10px;
+  width: fit-content;
+}
+
+div {
+  margin: 5px;
+  margin: 20px;
+}
+
+.calculos {
+  border: solid, darkgray, 2px;
+  border-radius: 10px;
+  background-color: grey;
+  padding: 10px;
+}
+
+.op {
+  border-radius: 10px;
+  background-color: lightgrey;
+  height: 50px;
+  width: 50px;
+}
+
+#c {
+  background-color: rgba(255, 136, 0, 0.774);
+}
+
+input {
+  height: 40px;
+  width: 75px;
+  border-radius: 10px;
+}
